@@ -1,5 +1,3 @@
-# Stril
-
 ![Stril logo](/documentation/images/stril_logo.png)
 
 Product management tool. Features, prioritization, releases. Open source, self-hosted.
